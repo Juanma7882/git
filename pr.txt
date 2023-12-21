@@ -1,0 +1,13 @@
+
+C:\Users\matia\OneDrive\Escritorio\UTN\carpeta123>git status -s
+A  .gitignore   la a sola quiere decir que el archivo fue add solamente y que el ultimo cambio fue guardado verde 
+AM chanchito.txt y aca el archivo fue modificado pero tiene un add 
+ M pacman.py el archivo fue commiteado pero tiene nuevos cambios 
+?? pr.txt el archivo no esta ni add ni nada 
+
+
+git add             nombre_archivo
+git log             con esto vemos el historial
+git log --oneline      con este comando se ve mas bonito
+git branch  |nos fijamos en que rama estamos 
+git checkout -b NOMBRE | se escribe ese comando y SE LE AGREGA UN NOMBRE
