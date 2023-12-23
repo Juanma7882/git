@@ -11,4 +11,9 @@ git log             con esto vemos el historial
 git log --oneline      con este comando se ve mas bonito
 git branch  |nos fijamos en que rama estamos 
 git checkout -b NOMBRE | se escribe ese comando y SE LE AGREGA UN NOMBRE
-git merge NOMBRE | EL NOMBRE DE LA RAMA QUE SE DESEA PONER EN LA PRINCIPAL pero para hace esto debemos estar en la rama en donde la queremos traer por ejemplo tenemos la rma a y b hicimos modificasiones en la rama b y queremos actualizar la rama a entoces nos pasamos a la rama a y le hacemos un merge de la rama b
+git merge NOMBRE | EL NOMBRE DE LA RAMA QUE SE DESEA PONER EN LA PRINCIPAL
+    pero para hace esto debemos estar en la rama en donde la queremos 
+    traer por ejemplo tenemos la rma a y b hicimos modificasiones en la rama b y queremos
+    actualizar la rama a entoces nos pasamos a la rama a y le hacemos un merge de la rama b
+git remote -v estado y direccion del repo
+
